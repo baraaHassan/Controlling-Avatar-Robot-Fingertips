@@ -19,8 +19,8 @@ The Sense Glove has 20 DoF, such that there are 20 active joints that one can mo
 
 ![20201007_182150](https://user-images.githubusercontent.com/49837627/150656834-5ad76ab4-6bc4-4283-a8f1-e44c247a7bb8.jpg)
 
-## Solution
-We tried to address this problem using Inverse Kinematics and Gradient Descent. We implemented our solution using **ROS** library on simulated Avatar Hand and glove, and later we deployed the solution on the hardware.
+## Our solution
+We tried to address this problem using Inverse Kinematics and Gradient Descent. We implemented our solution using **ROS** library on simulated Avatar hand and sense glove, and later we deployed the solution on the hardware.
 
 ## Output
 https://user-images.githubusercontent.com/49837627/150657486-72679f18-1dbe-4c5e-b36d-96211fcef5b7.mp4
@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/49837627/150657493-c01e57a9-e5de-4e8b-
 https://user-images.githubusercontent.com/49837627/150657504-c3e8baa7-a4df-4076-8e96-bcc388475252.mp4
 
 ## Detailed Report
-Cognitive_Robotics_Lab_report.pdf is the report for the detailed explanation
+Cognitive_Robotics_Lab_report.pdf is the report for the detailed explanation.
 
 ## Files
 The hand_controller.cpp file contains the main class that controls the communication between the sense-glove and the avatar robotic hand (including the listner to the sense-glove and the publisher to the robotic hand).
