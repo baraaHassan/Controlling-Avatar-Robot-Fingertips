@@ -22,7 +22,7 @@ The Sense Glove has 20 DoF, such that there are 20 active joints that one can mo
 ## Our solution
 We tried to address this problem using Inverse Kinematics and Gradient Descent. We implemented our solution using **ROS** library on simulated Avatar hand and sense glove, and later we deployed the solution on the hardware.
 
-## Output
+## Output Videos
 https://user-images.githubusercontent.com/49837627/150657486-72679f18-1dbe-4c5e-b36d-96211fcef5b7.mp4
 
 https://user-images.githubusercontent.com/49837627/150657493-c01e57a9-e5de-4e8b-a8c3-04c2587976ea.mp4
