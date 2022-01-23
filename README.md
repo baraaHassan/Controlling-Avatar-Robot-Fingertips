@@ -1,3 +1,12 @@
+- Controlling Avatar Robot Fingertips
+  - [introduction](#introduction)
+  - [The objective of the project](#the-objective-of-the-project)
+  - [Hardware](#hardware)
+  - [Our Solution](#our-solution)
+  - [Output Videos](#output-videos)
+  - [Detailed report](#detailed-report)
+  - [Files](#files)
+
 ## Introduction
 An Avatar Robot is a robot, which is being controlled from a remote
 location using a human operator, such that it can be used to reach dangerous
@@ -22,14 +31,14 @@ The Sense Glove has 20 DoF, such that there are 20 active joints that one can mo
 ## Our solution
 We tried to address this problem using Inverse Kinematics and Gradient Descent. We implemented our solution using **ROS** library on simulated Avatar hand and sense glove, and later we deployed the solution on the hardware.
 
-## Output Videos
+## Output videos
 https://user-images.githubusercontent.com/49837627/150657486-72679f18-1dbe-4c5e-b36d-96211fcef5b7.mp4
 
 https://user-images.githubusercontent.com/49837627/150657493-c01e57a9-e5de-4e8b-a8c3-04c2587976ea.mp4
 
 https://user-images.githubusercontent.com/49837627/150657504-c3e8baa7-a4df-4076-8e96-bcc388475252.mp4
 
-## Detailed Report
+## Detailed report
 Cognitive_Robotics_Lab_report.pdf is the report for the detailed explanation.
 
 ## Files
