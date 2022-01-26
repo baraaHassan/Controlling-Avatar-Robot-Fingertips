@@ -38,6 +38,9 @@ https://user-images.githubusercontent.com/49837627/150657493-c01e57a9-e5de-4e8b-
 
 https://user-images.githubusercontent.com/49837627/150657504-c3e8baa7-a4df-4076-8e96-bcc388475252.mp4
 
+![20201007_183346_1_1](https://user-images.githubusercontent.com/49837627/151211370-c37e7c4d-25d9-4800-b4b5-582487645f90.gif)
+
+
 ## Detailed report
 Cognitive_Robotics_Lab_report.pdf is the report for the detailed explanation.
 
