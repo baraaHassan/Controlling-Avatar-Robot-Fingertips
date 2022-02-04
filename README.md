@@ -47,6 +47,5 @@ https://user-images.githubusercontent.com/49837627/150657504-c3e8baa7-a4df-4076-
 Cognitive_Robotics_Lab_report.pdf is the report for the detailed explanation.
 
 ## Files
-The hand_controller.cpp file contains the main class that controls the communication between the sense-glove and the avatar robotic hand (including the listner to the sense-glove and the publisher to the robotic hand).
-
-The hand_ik.cpp file contains the class which its member functions compute the Forward Kinematics for the glove and the Inverse Kinematics for the robotic hand.
+- The **hand_controller.cpp** file: contains the main class that controls the communication between the sense-glove and the avatar robotic hand (including the listner to the sense-glove and the publisher to the robotic hand).
+- The **hand_ik.cpp** file: contains the class which its member functions compute the Forward Kinematics for the glove and the Inverse Kinematics for the robotic hand.
