@@ -1,7 +1,9 @@
 - Controlling Avatar Robot Fingertips
   - [introduction](#introduction)
-  - [The objective of the project](#the-objective-of-the-project)
+    - [The objective of the project](#the-objective-of-the-project)
   - [Hardware](#hardware)
+    - [Avatar Robot's Schunck Hand](#avatar-robot-schunck-hand)
+    - [Sense Glove](#sense-glove-to-control-the-avatar-remotely)
   - [Our Solution](#our-solution)
   - [Output Videos](#output-videos)
   - [Detailed report](#detailed-report)
@@ -18,12 +20,12 @@ Controlling the Avatar Robot’s hand fingertips, with a remote gloves-like oper
 ![20201007_174736](https://user-images.githubusercontent.com/49837627/150657463-27f3529f-ed74-4da1-a0c5-a2d3c3a42ae5.jpg)
 
 ## Hardware
-### Avatar Robot's Schunck Hand
+### Avatar Robot Schunck Hand
 The Schunk Hand has 9 DoF, so there are only 9 active joints that control the motion of the 5 fingertips of the hand, while all the other joints are just mimicking those 9 DoF joints, to achieve the goal pose of the fingertips.
 
 ![download](https://user-images.githubusercontent.com/49837627/150656795-4d56b38f-83b7-4c52-b12d-48e72901dee3.jpeg)
 
-### Sense Glove (to control the Avatar remotely)
+### Sense Glove to control the Avatar remotely
 The Sense Glove has 20 DoF, such that there are 20 active joints that one can move freely, which means we need to map this flexible moving hand to the strict robotic hand (20 DoF to 9 DoF).
 
 ![20201007_182150](https://user-images.githubusercontent.com/49837627/150656834-5ad76ab4-6bc4-4283-a8f1-e44c247a7bb8.jpg)
