@@ -1,5 +1,4 @@
 // Hand IK
-// Author: Christian Lenz <lenz@ais.uni-bonn.de>
 
 #include "hand_ik.h"
 
